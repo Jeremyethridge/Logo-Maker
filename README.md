@@ -8,10 +8,10 @@ To install this application you can git clone the repository, cd into logo maker
 
 ## Link
 
-## Screenshots
+## Generated Images
 ![Triangle](https://github.com/Jeremyethridge/Logo-Maker/assets/128623643/49182284-2229-41b5-beb4-33ae3e24a1f7)
 ![Square](https://github.com/Jeremyethridge/Logo-Maker/assets/128623643/3911a465-4e2b-417a-aed1-ef8a929d2e5c)
 ![Circle](https://github.com/Jeremyethridge/Logo-Maker/assets/128623643/32bd0019-a2e8-4cff-a5cf-e7312e8146af)
 
 ## Video
-
+[Untitled_ Oct 30, 2023 1_44 PM.webm](https://github.com/Jeremyethridge/Logo-Maker/assets/128623643/8f90ccc6-a554-4d26-99e6-5545089f6964)
